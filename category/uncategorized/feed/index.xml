@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; gitgo</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Dec 2018 11:22:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/09/cropped-mylogo-1-32x32.png</url>
+	<title>Uncategorized &#8211; gitgo</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Clean Coder Blog</title>
+		<link>/web-animation-3-4/</link>
+				<pubDate>Thu, 27 Dec 2018 11:22:23 +0000</pubDate>
+		<dc:creator><![CDATA[Harold Sumbrana]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://websitedemos.net/agency-02/?p=913</guid>
+				<description><![CDATA[<p>Duis iaculis mattis rutrum. Sed iaculis magna sit amet suscipit ornare. Nulla ornare leo a tortor aliquam, quis interdum ex tempor. Quisque ultricies consequat suscipit. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio&#8230;</p>
+<p>The post <a rel="nofollow" href="/web-animation-3-4/">Clean Coder Blog</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[		<div data-elementor-type="post" data-elementor-id="913" class="elementor elementor-913" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-6cc43a3 elementor-section-stretched elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="6cc43a3" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-529a648 elementor-column elementor-col-100 elementor-top-column" data-id="529a648" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-2b1aa6e elementor-section-height-min-height elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section elementor-inner-section" data-id="2b1aa6e" data-element_type="section" id="agentSection" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5dcecbe sliderContentLeft elementor-column elementor-col-50 elementor-inner-column" data-id="5dcecbe" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-befc819 sliderContent elementor-column elementor-col-50 elementor-inner-column" data-id="befc819" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2c5e739 agentImage elementor-widget elementor-widget-image" data-id="2c5e739" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-40483fa elementor-widget elementor-widget-heading" data-id="40483fa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Jeff Asquith</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d6ef397 elementor-align-justify agentBtnmail elementor-widget elementor-widget-button" data-id="d6ef397" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:jeff@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">jeff@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d815010 elementor-align-justify agentBtnPhone elementor-widget elementor-widget-button" data-id="d815010" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.363.5993" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">847.363.5993</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cfd540b elementor-widget elementor-widget-heading" data-id="cfd540b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Laurie Asquith</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e725e26 elementor-align-justify agentBtnmail elementor-widget elementor-widget-button" data-id="e725e26" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:laurie@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">laurie@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-13cf0bd elementor-align-justify agentBtnPhone elementor-widget elementor-widget-button" data-id="13cf0bd" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.209.9290" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"> 847.209.9290</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-80dc7df elementor-widget elementor-widget-heading" data-id="80dc7df" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Rob Clark</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-82df8b5 elementor-align-justify agentBtnmail elementor-widget elementor-widget-button" data-id="82df8b5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:rob@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">rob@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f670c25 elementor-align-justify agentBtnPhone elementor-widget elementor-widget-button" data-id="f670c25" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1630.337.7998" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">630.337.7998</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3eca172 elementor-widget elementor-widget-heading" data-id="3eca172" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Jess Pelayo</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1c8cbf2 elementor-align-justify agentBtnmail elementor-widget elementor-widget-button" data-id="1c8cbf2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:jess@homeAteam.com " class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">jess@homeAteam.com </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-218d087 elementor-align-justify agentBtnPhone elementor-widget elementor-widget-button" data-id="218d087" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.899.6439 " class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">847.899.6439 </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d10e8c0 bottomText elementor-widget elementor-widget-text-editor" data-id="d10e8c0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p> Also fluent in Spanish &amp; French</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-753ae3e elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="753ae3e" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3855963 elementor-column elementor-col-100 elementor-top-column" data-id="3855963" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d82e5b2 elementor-widget elementor-widget-heading" data-id="d82e5b2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">QUICK SEARCH</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6d1f4cd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6d1f4cd" data-element_type="section" id="featuredProperties" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1f6becf elementor-column elementor-col-100 elementor-top-column" data-id="1f6becf" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-dc11a9e elementor-widget elementor-widget-heading" data-id="dc11a9e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Featured Properties</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b1249d4 elementor-widget elementor-widget-text-editor" data-id="b1249d4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>For more information on these home, contact us!<br />For the entire MLS, simply use the search above!</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1ab1c66 elementor-testimonial--layout-image_above featuredLisitng elementor-testimonial--skin-default elementor-testimonial--align-center elementor-arrows-yes elementor-widget elementor-widget-testimonial-carousel" data-id="1ab1c66" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;3&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;}" data-widget_type="testimonial-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value remove number sign and place the desired link
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/uploads/2019/09/property2.jpg" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/uploads/2019/09/property3.jpg" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/uploads/2019/09/property2.jpg" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/uploads/2019/09/property3.jpg" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+									</div>
+																				<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b612775 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="b612775" data-element_type="section" id="teamSection" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-22d6cf1 elementor-column elementor-col-100 elementor-top-column" data-id="22d6cf1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e1399e5 elementor-widget elementor-widget-heading" data-id="e1399e5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Our Team</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-28422d9 elementor-widget elementor-widget-text-editor" data-id="28422d9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Our team is here to serve your real estate needs with exceptional service!</p></div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-4bfed12 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="4bfed12" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f57df97 agentBlock elementor-column elementor-col-25 elementor-inner-column" data-id="f57df97" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a912851 elementor-widget elementor-widget-image" data-id="a912851" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/agent_jeff_asquith.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6898fa5 elementor-widget elementor-widget-heading" data-id="6898fa5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Jeff Asquith</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f885f07 mail elementor-widget elementor-widget-button" data-id="f885f07" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:jeff@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="mail">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">jeff@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7645303 phone elementor-widget elementor-widget-button" data-id="7645303" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.363.5993" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="phone">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">847.363.5993</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-da86681 elementor-align-justify moreDetails elementor-widget elementor-widget-button" data-id="da86681" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="moreDetails">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Click here</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f4b8907 agentBlock elementor-column elementor-col-25 elementor-inner-column" data-id="f4b8907" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e3555d0 elementor-widget elementor-widget-image" data-id="e3555d0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/agent_laurie.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c5fd33a elementor-widget elementor-widget-heading" data-id="c5fd33a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Laurie Asquith</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c0201c1 mail elementor-widget elementor-widget-button" data-id="c0201c1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:laurie@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="mail">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">laurie@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-04643af phone elementor-widget elementor-widget-button" data-id="04643af" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.209.9290" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="phone">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">847.209.9290</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-44f4551 elementor-align-justify moreDetails elementor-widget elementor-widget-button" data-id="44f4551" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="moreDetails">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Click here</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2de3ded agentBlock elementor-column elementor-col-25 elementor-inner-column" data-id="2de3ded" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-8b4ad10 elementor-widget elementor-widget-image" data-id="8b4ad10" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/agent_jess.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6d664d9 elementor-widget elementor-widget-heading" data-id="6d664d9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Jess Pelayo</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-446570c mail elementor-widget elementor-widget-button" data-id="446570c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:jess@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="mail">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">jess@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-bcee2c8 phone elementor-widget elementor-widget-button" data-id="bcee2c8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.899.6439" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="phone">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">847.899.6439</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5f9ebd6 elementor-widget elementor-widget-text-editor" data-id="5f9ebd6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><em>Also fluent in Spanish &amp; French</em></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cbe3818 elementor-align-justify moreDetails elementor-widget elementor-widget-button" data-id="cbe3818" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="moreDetails">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Click here</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-8d54036 agentBlock elementor-column elementor-col-25 elementor-inner-column" data-id="8d54036" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-289e0fb elementor-widget elementor-widget-image" data-id="289e0fb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/agent_rob.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9da5ac7 elementor-widget elementor-widget-heading" data-id="9da5ac7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Rob Clark</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-08032f2 mail elementor-widget elementor-widget-button" data-id="08032f2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:rob@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="mail">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">rob@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-80e2d7a phone elementor-widget elementor-widget-button" data-id="80e2d7a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1630.337.7998" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="phone">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">630.337.7998</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-62c814d elementor-align-justify moreDetails elementor-widget elementor-widget-button" data-id="62c814d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="moreDetails">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Click here</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-f0b0c13 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f0b0c13" data-element_type="section" id="featuredSection" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e9737f4 elementor-column elementor-col-100 elementor-top-column" data-id="e9737f4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d1aac98 elementor-widget elementor-widget-heading" data-id="d1aac98" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">CHECK OUT OUR FEATURES</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f660016 elementor-widget elementor-widget-text-editor" data-id="f660016" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Click on any of our features to learn more</p></div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-d65fba3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d65fba3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7a82c8b featuredBlock elementor-column elementor-col-50 elementor-inner-column" data-id="7a82c8b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-36e7cef featuredImage elementor-widget elementor-widget-image" data-id="36e7cef" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="#" data-elementor-open-lightbox="">
+							<img width="1" height="1" src="/wp-content/uploads/2019/09/buyerImage.jpg" class="attachment-large size-large" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5794863 elementor-align-justify articlesBtn elementor-widget elementor-widget-button" data-id="5794863" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="articlesBtn">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Buyer<br>Articles</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-16e3948 featuredBlock elementor-column elementor-col-50 elementor-inner-column" data-id="16e3948" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e9ea8cf featuredImage elementor-widget elementor-widget-image" data-id="e9ea8cf" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="#" data-elementor-open-lightbox="">
+							<img width="1" height="1" src="/wp-content/uploads/2019/09/sellerImg.jpg" class="attachment-large size-large" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6e3ef12 elementor-align-justify articlesBtn elementor-widget elementor-widget-button" data-id="6e3ef12" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="articlesBtn">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Seller<br>Articles</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-e917cdb featuredBlock elementor-column elementor-col-50 elementor-inner-column" data-id="e917cdb" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bf3b6ec featuredImage elementor-widget elementor-widget-image" data-id="bf3b6ec" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="#" data-elementor-open-lightbox="">
+							<img width="1" height="1" src="/wp-content/uploads/2019/09/mortgageImg.jpg" class="attachment-large size-large" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1438f88 elementor-align-justify articlesBtn elementor-widget elementor-widget-button" data-id="1438f88" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="articlesBtn">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Mortgage<br>Calculator</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3c56a97 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3c56a97" data-element_type="section" id="aboutUs" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-afa015a elementor-column elementor-col-100 elementor-top-column" data-id="afa015a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-2b893b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="2b893b9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d64ee62 elementor-column elementor-col-50 elementor-inner-column" data-id="d64ee62" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-01e72ff elementor-column elementor-col-50 elementor-inner-column" data-id="01e72ff" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		<p>The post <a rel="nofollow" href="/web-animation-3-4/">Clean Coder Blog</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Marketing</title>
+		<link>/web-animation-3-3-2/</link>
+				<pubDate>Thu, 27 Dec 2018 11:15:21 +0000</pubDate>
+		<dc:creator><![CDATA[Harold Sumbrana]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://websitedemos.net/agency-02/?p=909</guid>
+				<description><![CDATA[<p>Duis iaculis mattis rutrum. Sed iaculis magna sit amet suscipit ornare. Nulla ornare leo a tortor aliquam, quis interdum ex tempor. Quisque ultricies consequat suscipit. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio&#8230;</p>
+<p>The post <a rel="nofollow" href="/web-animation-3-3-2/">Marketing</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-drop-cap">Duis iaculis mattis rutrum. Sed iaculis magna sit amet suscipit ornare. Nulla ornare leo a tortor aliquam, quis interdum ex tempor. Quisque ultricies consequat suscipit. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio sagittis est, id aliquet turpis orci quis nibh. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio sagittis est, id aliquet turpis orci quis nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper.<br></p>
+
+
+
+<blockquote class="wp-block-quote"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum.</p></blockquote>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image"><img src="https://websitedemos.net/agency-02/wp-content/uploads/sites/30/2018/12/pic06-free-img-1024x427.jpg" alt="" class="wp-image-911" srcset="/wp-content/uploads/2018/12/pic06-free-img-1024x427.jpg 1024w, /wp-content/uploads/2018/12/pic06-free-img-300x125.jpg 300w, /wp-content/uploads/2018/12/pic06-free-img-768x320.jpg 768w, /wp-content/uploads/2018/12/pic06-free-img-600x250.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color" id="uagb-section-f383cb12-e0cf-4798-8018-24b169a8d8c4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-1bdc722e-181e-4cae-a988-cb43e8a82381"><h2 class="uagb-heading-text"> <br>The Biggest Marketing Challenges for Small Businesses   </h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+</div></section>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<p><strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo</strong>.&nbsp;<br><br>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Ut elit tellus, luctus nec ullamcorper mattis. </p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp; . </p>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="/web-animation-3-3-2/">Marketing</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Playful illustration</title>
+		<link>/web-animation-3-3/</link>
+				<pubDate>Thu, 27 Dec 2018 11:06:55 +0000</pubDate>
+		<dc:creator><![CDATA[Harold Sumbrana]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://websitedemos.net/agency-02/?p=905</guid>
+				<description><![CDATA[<p>Duis iaculis mattis rutrum. Sed iaculis magna sit amet suscipit ornare. Nulla ornare leo a tortor aliquam, quis interdum ex tempor. Quisque ultricies consequat suscipit. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio&#8230;</p>
+<p>The post <a rel="nofollow" href="/web-animation-3-3/">Playful illustration</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[		<div data-elementor-type="post" data-elementor-id="905" class="elementor elementor-905" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-6cc43a3 elementor-section-stretched elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="6cc43a3" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-529a648 elementor-column elementor-col-100 elementor-top-column" data-id="529a648" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-2b1aa6e elementor-section-height-min-height elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section elementor-inner-section" data-id="2b1aa6e" data-element_type="section" id="agentSection" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5dcecbe sliderContentLeft elementor-column elementor-col-50 elementor-inner-column" data-id="5dcecbe" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-befc819 sliderContent elementor-column elementor-col-50 elementor-inner-column" data-id="befc819" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2c5e739 agentImage elementor-widget elementor-widget-image" data-id="2c5e739" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-40483fa elementor-widget elementor-widget-heading" data-id="40483fa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Jeff Asquith</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d6ef397 elementor-align-justify agentBtnmail elementor-widget elementor-widget-button" data-id="d6ef397" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:jeff@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">jeff@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d815010 elementor-align-justify agentBtnPhone elementor-widget elementor-widget-button" data-id="d815010" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.363.5993" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">847.363.5993</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cfd540b elementor-widget elementor-widget-heading" data-id="cfd540b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Laurie Asquith</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e725e26 elementor-align-justify agentBtnmail elementor-widget elementor-widget-button" data-id="e725e26" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:laurie@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">laurie@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-13cf0bd elementor-align-justify agentBtnPhone elementor-widget elementor-widget-button" data-id="13cf0bd" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.209.9290" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"> 847.209.9290</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-80dc7df elementor-widget elementor-widget-heading" data-id="80dc7df" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Rob Clark</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-82df8b5 elementor-align-justify agentBtnmail elementor-widget elementor-widget-button" data-id="82df8b5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:rob@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">rob@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f670c25 elementor-align-justify agentBtnPhone elementor-widget elementor-widget-button" data-id="f670c25" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1630.337.7998" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">630.337.7998</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3eca172 elementor-widget elementor-widget-heading" data-id="3eca172" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Jess Pelayo</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1c8cbf2 elementor-align-justify agentBtnmail elementor-widget elementor-widget-button" data-id="1c8cbf2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:jess@homeAteam.com " class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">jess@homeAteam.com </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-218d087 elementor-align-justify agentBtnPhone elementor-widget elementor-widget-button" data-id="218d087" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.899.6439 " class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">847.899.6439 </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d10e8c0 bottomText elementor-widget elementor-widget-text-editor" data-id="d10e8c0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p> Also fluent in Spanish &amp; French</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-753ae3e elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="753ae3e" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3855963 elementor-column elementor-col-100 elementor-top-column" data-id="3855963" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d82e5b2 elementor-widget elementor-widget-heading" data-id="d82e5b2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">QUICK SEARCH</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6d1f4cd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6d1f4cd" data-element_type="section" id="featuredProperties" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1f6becf elementor-column elementor-col-100 elementor-top-column" data-id="1f6becf" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-dc11a9e elementor-widget elementor-widget-heading" data-id="dc11a9e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Featured Properties</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b1249d4 elementor-widget elementor-widget-text-editor" data-id="b1249d4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>For more information on these home, contact us!<br />For the entire MLS, simply use the search above!</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1ab1c66 elementor-testimonial--layout-image_above featuredLisitng elementor-testimonial--skin-default elementor-testimonial--align-center elementor-arrows-yes elementor-widget elementor-widget-testimonial-carousel" data-id="1ab1c66" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;3&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="testimonial-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value remove number sign and place the desired link
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/uploads/2019/09/property2.jpg" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/uploads/2019/09/property3.jpg" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/plugins/elementor/assets/images/placeholder.png" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/uploads/2019/09/property2.jpg" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Property Name
+<a class="add-link-here" href="#"> Replace Link under href value
+</a>					</div>
+					<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Address</span><span class="elementor-testimonial__title">$140,000</span></cite>				</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img src="/wp-content/uploads/2019/09/property3.jpg" alt="Address">
+					</div>
+											</div>
+		</div>
+								</div>
+									</div>
+																				<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b612775 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="b612775" data-element_type="section" id="teamSection" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-22d6cf1 elementor-column elementor-col-100 elementor-top-column" data-id="22d6cf1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e1399e5 elementor-widget elementor-widget-heading" data-id="e1399e5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Our Team</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-28422d9 elementor-widget elementor-widget-text-editor" data-id="28422d9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Our team is here to serve your real estate needs with exceptional service!</p></div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-4bfed12 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="4bfed12" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f57df97 agentBlock elementor-column elementor-col-25 elementor-inner-column" data-id="f57df97" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a912851 elementor-widget elementor-widget-image" data-id="a912851" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/agent_jeff_asquith.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6898fa5 elementor-widget elementor-widget-heading" data-id="6898fa5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Jeff Asquith</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f885f07 mail elementor-widget elementor-widget-button" data-id="f885f07" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:jeff@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="mail">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">jeff@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7645303 phone elementor-widget elementor-widget-button" data-id="7645303" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.363.5993" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="phone">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">847.363.5993</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-da86681 elementor-align-justify moreDetails elementor-widget elementor-widget-button" data-id="da86681" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="moreDetails">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Click here</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f4b8907 agentBlock elementor-column elementor-col-25 elementor-inner-column" data-id="f4b8907" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e3555d0 elementor-widget elementor-widget-image" data-id="e3555d0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/agent_laurie.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c5fd33a elementor-widget elementor-widget-heading" data-id="c5fd33a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Laurie Asquith</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c0201c1 mail elementor-widget elementor-widget-button" data-id="c0201c1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:laurie@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="mail">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">laurie@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-04643af phone elementor-widget elementor-widget-button" data-id="04643af" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.209.9290" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="phone">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">847.209.9290</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-44f4551 elementor-align-justify moreDetails elementor-widget elementor-widget-button" data-id="44f4551" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="moreDetails">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Click here</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2de3ded agentBlock elementor-column elementor-col-25 elementor-inner-column" data-id="2de3ded" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-8b4ad10 elementor-widget elementor-widget-image" data-id="8b4ad10" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/agent_jess.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6d664d9 elementor-widget elementor-widget-heading" data-id="6d664d9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Jess Pelayo</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-446570c mail elementor-widget elementor-widget-button" data-id="446570c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:jess@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="mail">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">jess@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-bcee2c8 phone elementor-widget elementor-widget-button" data-id="bcee2c8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1847.899.6439" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="phone">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">847.899.6439</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5f9ebd6 elementor-widget elementor-widget-text-editor" data-id="5f9ebd6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><em>Also fluent in Spanish &amp; French</em></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cbe3818 elementor-align-justify moreDetails elementor-widget elementor-widget-button" data-id="cbe3818" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="moreDetails">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Click here</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-8d54036 agentBlock elementor-column elementor-col-25 elementor-inner-column" data-id="8d54036" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-289e0fb elementor-widget elementor-widget-image" data-id="289e0fb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/agent_rob.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9da5ac7 elementor-widget elementor-widget-heading" data-id="9da5ac7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Rob Clark</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-08032f2 mail elementor-widget elementor-widget-button" data-id="08032f2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:rob@homeAteam.com" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="mail">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">rob@homeAteam.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-80e2d7a phone elementor-widget elementor-widget-button" data-id="80e2d7a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel+1630.337.7998" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="phone">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">630.337.7998</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-62c814d elementor-align-justify moreDetails elementor-widget elementor-widget-button" data-id="62c814d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="moreDetails">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Click here</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-f0b0c13 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f0b0c13" data-element_type="section" id="featuredSection" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e9737f4 elementor-column elementor-col-100 elementor-top-column" data-id="e9737f4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d1aac98 elementor-widget elementor-widget-heading" data-id="d1aac98" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">CHECK OUT OUR FEATURES</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f660016 elementor-widget elementor-widget-text-editor" data-id="f660016" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Click on any of our features to learn more</p></div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-d65fba3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d65fba3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-39d0840 featuredBlock elementor-column elementor-col-33 elementor-inner-column" data-id="39d0840" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-093f538 featuredImage elementor-widget elementor-widget-image" data-id="093f538" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/buyerImage.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-92dca49 elementor-align-justify articlesBtn elementor-widget elementor-widget-button" data-id="92dca49" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="articlesBtn">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Buyer<br>Articles</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-7a82c8b featuredBlock elementor-column elementor-col-33 elementor-inner-column" data-id="7a82c8b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-36e7cef featuredImage elementor-widget elementor-widget-image" data-id="36e7cef" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/buyerImage.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5794863 elementor-align-justify articlesBtn elementor-widget elementor-widget-button" data-id="5794863" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="articlesBtn">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Seller<br>Articles</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-e917cdb featuredBlock elementor-column elementor-col-33 elementor-inner-column" data-id="e917cdb" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bf3b6ec featuredImage elementor-widget elementor-widget-image" data-id="bf3b6ec" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="/wp-content/uploads/2019/09/buyerImage.jpg" class="attachment-large size-large" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1438f88 elementor-align-justify articlesBtn elementor-widget elementor-widget-button" data-id="1438f88" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="articlesBtn">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Mortgage<br>Calculator</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		<p>The post <a rel="nofollow" href="/web-animation-3-3/">Playful illustration</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Standardisation between design tools</title>
+		<link>/web-animation-3-2/</link>
+				<pubDate>Thu, 27 Dec 2018 10:47:27 +0000</pubDate>
+		<dc:creator><![CDATA[Harold Sumbrana]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://websitedemos.net/agency-02/?p=895</guid>
+				<description><![CDATA[<p>Duis iaculis mattis rutrum. Sed iaculis magna sit amet suscipit ornare. Nulla ornare leo a tortor aliquam, quis interdum ex tempor. Quisque ultricies consequat suscipit. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio&#8230;</p>
+<p>The post <a rel="nofollow" href="/web-animation-3-2/">Standardisation between design tools</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-drop-cap">Duis iaculis mattis rutrum. Sed iaculis magna sit amet suscipit ornare. Nulla ornare leo a tortor aliquam, quis interdum ex tempor. Quisque ultricies consequat suscipit. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio sagittis est, id aliquet turpis orci quis nibh. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio sagittis est, id aliquet turpis orci quis nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper.<br></p>
+
+
+
+<blockquote class="wp-block-quote"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum.</p></blockquote>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image"><img src="https://websitedemos.net/agency-02/wp-content/uploads/sites/30/2018/12/pic04-free-img-1024x427.jpg" alt="" class="wp-image-901" srcset="/wp-content/uploads/2018/12/pic04-free-img-1024x427.jpg 1024w, /wp-content/uploads/2018/12/pic04-free-img-300x125.jpg 300w, /wp-content/uploads/2018/12/pic04-free-img-768x320.jpg 768w, /wp-content/uploads/2018/12/pic04-free-img-600x250.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color" id="uagb-section-b9238a10-201b-464f-8ec2-a523387a40f8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-2f590278-956f-474f-b528-3ba8c712bddb"><h2 class="uagb-heading-text">  <br>Collaborative platform to finally bring a standardisation to the design  </h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+</div></section>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<p><strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo</strong>.&nbsp;<br><br>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Ut elit tellus, luctus nec ullamcorper mattis. </p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp; . </p>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="/web-animation-3-2/">Standardisation between design tools</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>More adventurous colours</title>
+		<link>/web-animation-2/</link>
+				<pubDate>Thu, 27 Dec 2018 10:39:40 +0000</pubDate>
+		<dc:creator><![CDATA[Harold Sumbrana]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://websitedemos.net/agency-02/?p=887</guid>
+				<description><![CDATA[<p>Duis iaculis mattis rutrum. Sed iaculis magna sit amet suscipit ornare. Nulla ornare leo a tortor aliquam, quis interdum ex tempor. Quisque ultricies consequat suscipit. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio&#8230;</p>
+<p>The post <a rel="nofollow" href="/web-animation-2/">More adventurous colours</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-drop-cap">Duis iaculis mattis rutrum. Sed iaculis magna sit amet suscipit ornare. Nulla ornare leo a tortor aliquam, quis interdum ex tempor. Quisque ultricies consequat suscipit. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio sagittis est, id aliquet turpis orci quis nibh. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio sagittis est, id aliquet turpis orci quis nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper.<br></p>
+
+
+
+<blockquote class="wp-block-quote"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum.</p></blockquote>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image"><img src="https://websitedemos.net/agency-02/wp-content/uploads/sites/30/2018/12/pic03-free-img-1024x427.jpg" alt="" class="wp-image-890" srcset="/wp-content/uploads/2018/12/pic03-free-img-1024x427.jpg 1024w, /wp-content/uploads/2018/12/pic03-free-img-300x125.jpg 300w, /wp-content/uploads/2018/12/pic03-free-img-768x320.jpg 768w, /wp-content/uploads/2018/12/pic03-free-img-600x250.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color" id="uagb-section-5ff25d18-7567-4192-8ef5-e1179d9ef521"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-5b1d7209-03b4-4e95-b6ba-d064d178e844"><h2 class="uagb-heading-text"> <br> U<g class="gr_ gr_11 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="11" data-gr-id="11">nique</g> experiences for consumers   </h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+</div></section>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<p><strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo</strong>.&nbsp;<br><br>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Ut elit tellus, luctus nec ullamcorper mattis. </p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp; . </p>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="/web-animation-2/">More adventurous colours</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Web animation</title>
+		<link>/web-animation-3/</link>
+				<pubDate>Thu, 27 Dec 2018 09:43:58 +0000</pubDate>
+		<dc:creator><![CDATA[Harold Sumbrana]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://websitedemos.net/agency-02/?p=830</guid>
+				<description><![CDATA[<p>Duis iaculis mattis rutrum. Sed iaculis magna sit amet suscipit ornare. Nulla ornare leo a tortor aliquam, quis interdum ex tempor. Quisque ultricies consequat suscipit. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio &#8230;</p>
+<p class="read-more"> <a class="" href="/web-animation-3/"> <span class="screen-reader-text">Web animation</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/web-animation-3/">Web animation</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-drop-cap">Duis iaculis mattis rutrum. Sed iaculis magna sit amet suscipit ornare. Nulla ornare leo a tortor aliquam, quis interdum ex tempor. Quisque ultricies consequat suscipit. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio sagittis est, id aliquet turpis orci quis nibh. Donec tincidunt tempor ornare. Praesent a enim vel augue suscipit auctor in gravida augue. Suspendisse ut libero sit amet augue molestie fringilla. Fusce molestie, velit a finibus eleifend, nibh odio sagittis est, id aliquet turpis orci quis nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper.<br></p>
+
+
+
+<blockquote class="wp-block-quote"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum.</p></blockquote>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image"><img src="https://websitedemos.net/agency-02/wp-content/uploads/sites/30/2018/12/pic03-free-img-1024x427.jpg" alt="" class="wp-image-890" srcset="/wp-content/uploads/2018/12/pic03-free-img-1024x427.jpg 1024w, /wp-content/uploads/2018/12/pic03-free-img-300x125.jpg 300w, /wp-content/uploads/2018/12/pic03-free-img-768x320.jpg 768w, /wp-content/uploads/2018/12/pic03-free-img-600x250.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color" id="uagb-section-bfb2c916-f8e7-469b-ad04-e756ce35871e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-dbce6c5f-3d3e-4580-bb4c-dd5fcf8cd271"><h2 class="uagb-heading-text"> <br>Animated logos is an obvious trend </h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+</div></section>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<p><strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo</strong>.&nbsp;<br><br>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Ut elit tellus, luctus nec ullamcorper mattis. </p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp;Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo luctus nec ullamcorper mattis, pulvinar dapibus leo.&nbsp; . </p>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="/web-animation-3/">Web animation</a> appeared first on <a rel="nofollow" href="">gitgo</a>.</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

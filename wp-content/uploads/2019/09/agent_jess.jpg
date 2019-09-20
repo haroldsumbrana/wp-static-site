@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Page not found - WebPRO</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v10.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - WebPRO" />
+<meta property="og:site_name" content="WebPRO" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page not found - WebPRO" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="WebPRO &raquo; Feed" href="http://localhost/webPro_v1/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/webPro_v1\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='astra-theme-css-css'  href='http://localhost/webPro_v1/wp-content/themes/astra/assets/css/minified/style.min.css?ver=1.8.0' type='text/css' media='all' />
+<style id='astra-theme-css-inline-css' type='text/css'>
+html{font-size:87.5%;}a,.page-title{color:#4064d7;}a:hover,a:focus{color:#3a3a3a;}body,button,input,select,textarea{font-family:'Varela Round',sans-serif;font-weight:400;font-size:14px;font-size:1rem;}blockquote{border-color:rgba(64,100,215,0.15);}.site-title{font-size:35px;font-size:2.5rem;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.8571428571429rem;}.site-header .site-description{font-size:15px;font-size:1.0714285714286rem;}.entry-title{font-size:30px;font-size:2.1428571428571rem;}.comment-reply-title{font-size:23px;font-size:1.6428571428571rem;}.ast-comment-list #cancel-comment-reply-link{font-size:14px;font-size:1rem;}h1,.entry-content h1,.entry-content h1 a{font-size:42px;font-size:3rem;}h2,.entry-content h2,.entry-content h2 a{font-size:42px;font-size:3rem;}h3,.entry-content h3,.entry-content h3 a{font-size:30px;font-size:2.1428571428571rem;}h4,.entry-content h4,.entry-content h4 a{font-size:20px;font-size:1.4285714285714rem;}h5,.entry-content h5,.entry-content h5 a{font-size:18px;font-size:1.2857142857143rem;}h6,.entry-content h6,.entry-content h6 a{font-size:15px;font-size:1.0714285714286rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:2.1428571428571rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:14px;font-size:1rem;}::selection{background-color:#4064d7;color:#ffffff;}body,h1,.entry-title a,.entry-content h1,.entry-content h1 a,h2,.entry-content h2,.entry-content h2 a,h3,.entry-content h3,.entry-content h3 a,h4,.entry-content h4,.entry-content h4 a,h5,.entry-content h5,.entry-content h5 a,h6,.entry-content h6,.entry-content h6 a{color:#3a3a3a;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#4064d7;background-color:#4064d7;}.main-header-menu a,.ast-header-custom-item a{color:#3a3a3a;}.main-header-menu li:hover > a,.main-header-menu li:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu li.focus > a,.main-header-menu li.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > a,.main-header-menu .current-menu-ancestor > a,.main-header-menu .current_page_item > a,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle,.main-header-menu .current_page_item > .ast-menu-toggle{color:#4064d7;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#4064d7;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#4064d7;background-color:#4064d7;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#4064d7;border-color:#4064d7;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.ast-comment-meta{line-height:1.666666667;font-size:11px;font-size:0.78571428571429rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#4064d7;}.menu-toggle,button,.ast-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-radius:50px;padding:10px 40px;color:#ffffff;border-color:#4064d7;background-color:#4064d7;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;border-color:#3a3a3a;background-color:#3a3a3a;}.entry-meta,.entry-meta *{line-height:1.45;color:#4064d7;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#3a3a3a;}blockquote,blockquote a{color:#000000;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:14.285714285714rem;}.widget-title{font-size:20px;font-size:1.4285714285714rem;color:#3a3a3a;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#4064d7;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#4064d7;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#4064d7;border-color:#4064d7;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#4064d7;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#3a3a3a;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#4064d7;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #4064d7;color:#4064d7;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#4064d7;}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}@media (max-width:768px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1,.entry-content h1 a{font-size:30px;}h2,.entry-content h2,.entry-content h2 a{font-size:25px;}h3,.entry-content h3,.entry-content h3 a{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1,.entry-content h1 a{font-size:30px;}h2,.entry-content h2,.entry-content h2 a{font-size:25px;}h3,.entry-content h3,.entry-content h3 a{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:768px){html{font-size:79.8%;}}@media (max-width:544px){html{font-size:79.8%;}}@media (min-width:769px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url( http://localhost/webPro_v1/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url( http://localhost/webPro_v1/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url( http://localhost/webPro_v1/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#eaeaea;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children{border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children .children{top:-1px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu a,.ast-desktop .main-header-menu.submenu-with-border .children a{border-bottom-width:1px;border-style:solid;border-color:#eaeaea;}@media (min-width:769px){.main-header-menu .sub-menu li.ast-left-align-sub-menu:hover > ul,.main-header-menu .sub-menu li.ast-left-align-sub-menu.focus > ul{margin-left:-2px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#545454;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:7.1428571428571rem;}}
+.ast-header-break-point .site-header{border-bottom-width:0px;}@media (min-width:769px){.main-header-bar{border-bottom-width:0px;}}.ast-flex{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;}.main-header-bar{padding:1em 0;}.ast-site-identity{padding:0;}
+@media (min-width:769px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead, .fl-builder-edit .ast-theme-transparent-header #masthead, body.vc_editor.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .custom-mobile-logo-link{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}@media (max-width:768px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead, .fl-builder-edit .ast-theme-transparent-header #masthead, body.vc_editor.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .custom-mobile-logo-link{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}.ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header .site-header{border-bottom-width:0;}
+.ast-breadcrumbs .trail-browse, .ast-breadcrumbs .trail-items, .ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"»";}.trail-items li:last-of-type::after{display:none;}
+</style>
+<link rel='stylesheet' id='astra-google-fonts-css'  href='//fonts.googleapis.com/css?family=Varela+Round%3A400&#038;ver=1.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/webPro_v1/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://localhost/webPro_v1/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='uagb-block-css-css'  href='http://localhost/webPro_v1/wp-content/plugins/ultimate-addons-for-gutenberg/dist/blocks.style.build.css?ver=1.12.4' type='text/css' media='all' />
+<link rel='stylesheet' id='uagb-slick-css-css'  href='http://localhost/webPro_v1/wp-content/plugins/ultimate-addons-for-gutenberg/assets/css/slick.css?ver=1.12.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://localhost/webPro_v1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='astra-contact-form-7-css'  href='http://localhost/webPro_v1/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7.min.css?ver=1.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://localhost/webPro_v1/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout.min.css?ver=1.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://localhost/webPro_v1/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen.min.css?ver=1.8.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://localhost/webPro_v1/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce.min.css?ver=1.8.0' type='text/css' media='all' />
+<style id='woocommerce-general-inline-css' type='text/css'>
+.woocommerce span.onsale{background-color:#4064d7;color:#ffffff;}.woocommerce a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce input.button,.woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled], .woocommerce input.button:disabled:hover, .woocommerce input.button:disabled[disabled]:hover, .woocommerce #respond input#submit, .woocommerce button.button.alt.disabled{color:#ffffff;border-color:#4064d7;background-color:#4064d7;}.woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce .woocommerce-message a.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce input.button:hover, .woocommerce button.button.alt.disabled:hover{color:#ffffff;border-color:#3a3a3a;background-color:#3a3a3a;}.woocommerce-message, .woocommerce-info{border-top-color:#4064d7;}.woocommerce-message::before,.woocommerce-info::before{color:#4064d7;}.woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price, .widget_layered_nav_filters ul li.chosen a, .woocommerce-page ul.products li.product .ast-woo-product-category, .wc-layered-nav-rating a{color:#3a3a3a;}.woocommerce nav.woocommerce-pagination ul,.woocommerce nav.woocommerce-pagination ul li{border-color:#4064d7;}.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current{background:#4064d7;color:#ffffff;}.woocommerce-MyAccount-navigation-link.is-active a{color:#3a3a3a;}.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle{background-color:#4064d7;}.woocommerce a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce input.button,.woocommerce-cart table.cart td.actions .button, .woocommerce form.checkout_coupon .button, .woocommerce #respond input#submit{border-radius:50px;padding:10px 40px;}.woocommerce .star-rating, .woocommerce .comment-form-rating .stars a, .woocommerce .star-rating::before{color:#4064d7;}.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before{background:#4064d7;}.ast-site-header-cart a{color:#3a3a3a;}.ast-site-header-cart a:focus, .ast-site-header-cart a:hover, .ast-site-header-cart .current-menu-item a{color:#4064d7;}.ast-cart-menu-wrap .count, .ast-cart-menu-wrap .count:after{border-color:#4064d7;color:#4064d7;}.ast-cart-menu-wrap:hover .count{color:#ffffff;background-color:#4064d7;}.ast-site-header-cart .widget_shopping_cart .total .woocommerce-Price-amount{color:#4064d7;}.woocommerce a.remove:hover, .ast-woocommerce-cart-menu .main-header-menu .woocommerce-custom-menu-item li:hover > a.remove:hover{color:#4064d7;border-color:#4064d7;background-color:#ffffff;}.ast-site-header-cart .widget_shopping_cart .buttons .button.checkout, .woocommerce .widget_shopping_cart .woocommerce-mini-cart__buttons .checkout.wc-forward{color:#ffffff;border-color:#3a3a3a;background-color:#3a3a3a;}.site-header .ast-site-header-cart-data .button.wc-forward, .site-header .ast-site-header-cart-data .button.wc-forward:hover{color:#ffffff;}.below-header-user-select .ast-site-header-cart .widget, .ast-above-header-section .ast-site-header-cart .widget a, .below-header-user-select .ast-site-header-cart .widget_shopping_cart a{color:#3a3a3a;}.below-header-user-select .ast-site-header-cart .widget_shopping_cart a:hover, .ast-above-header-section .ast-site-header-cart .widget_shopping_cart a:hover, .below-header-user-select .ast-site-header-cart .widget_shopping_cart a.remove:hover, .ast-above-header-section .ast-site-header-cart .widget_shopping_cart a.remove:hover{color:#4064d7;}@media (min-width:769px){.ast-woo-shop-archive .site-content > .ast-container{max-width:1240px;}}
+</style>
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='hfe-style-css'  href='http://localhost/webPro_v1/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://localhost/webPro_v1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://localhost/webPro_v1/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://localhost/webPro_v1/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.5.10' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://localhost/webPro_v1/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.5.10' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='http://localhost/webPro_v1/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://localhost/webPro_v1/wp-content/uploads/elementor/css/global.css?ver=1567819501' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-913-css'  href='http://localhost/webPro_v1/wp-content/uploads/elementor/css/post-913.css?ver=1567819502' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-pro-theme-css-css'  href='http://localhost/webPro_v1/wp-content/themes/astra-child/style.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shiftnav-css'  href='http://localhost/webPro_v1/wp-content/plugins/shiftnavpro15/pro/assets/css/shiftnav.min.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='shiftnav-font-awesome-css'  href='http://localhost/webPro_v1/wp-content/plugins/shiftnavpro15/assets/css/fontawesome/css/font-awesome.min.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='shiftnav-standard-dark-css'  href='http://localhost/webPro_v1/wp-content/plugins/shiftnavpro15/assets/css/skins/standard-dark.css?ver=1.5' type='text/css' media='all' />
+<!--[if IE]>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=1.8.0'></script>
+<script type='text/javascript'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/isotope.min.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/imagesloaded.min.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/table-of-contents.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/slick.min.js?ver=1.12.4'></script>
+<link rel='https://api.w.org/' href='http://localhost/webPro_v1/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/webPro_v1/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/webPro_v1/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.3" />
+<meta name="generator" content="WooCommerce 3.7.0" />
+
+	<!-- ShiftNav CSS 
+	================================================================ -->
+	<style type="text/css" id="shiftnav-dynamic-css">
+		
+	@media only screen and (min-width:938px){ #shiftnav-toggle-main, .shiftnav-toggle-mobile{ display:none; } .shiftnav-wrap { padding-top:0 !important; } }
+	@media only screen and (max-width:937px){ .ast-mobile-menu-buttons{ display:none !important; } }
+
+/** ShiftNav Custom Menu Styles (Customizer) **/
+/* shiftnav-main */
+.shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item.shiftnav-active > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item.shiftnav-in-transition > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu.shiftnav-active-on-hover li.menu-item > .shiftnav-target:hover, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu.shiftnav-active-highlight li.menu-item > .shiftnav-target:active { background:#f1aa40; color:#000000; }
+.shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item.current-menu-item > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item ul.sub-menu .current-menu-item > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu > li.shiftnav-sub-accordion.current-menu-ancestor > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu > li.shiftnav-sub-shift.current-menu-ancestor > .shiftnav-target { background:#f1aa40; color:#000000; }
+
+/* Status: Loaded from Transient */
+
+	</style>
+	<!-- end ShiftNav CSS -->
+
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+						<style type="text/css" media="all" id="uagb-style-frontend">#uagb-section-a2d30912-c9ed-4b5e-8201-f07999938ca8.uagb-section__wrap{padding-top: 0;padding-bottom: 15px;padding-left: 50px;padding-right: 20px;margin-left: auto;margin-top: -100px;max-width: 900px;}#uagb-section-a2d30912-c9ed-4b5e-8201-f07999938ca8 > .uagb-section__video-wrap{opacity: 0.5;}#uagb-section-a2d30912-c9ed-4b5e-8201-f07999938ca8 > .uagb-section__inner-wrap{max-width: 100%;}#uagb-section-a2d30912-c9ed-4b5e-8201-f07999938ca8 > .uagb-section__overlay{background-color: #313131;}#uagb-adv-heading-af45342e-90c6-4d7c-810c-c0c22eb17b79 .uagb-heading-text{text-align: left;color: #ffffff;margin-bottom: 15px;}#uagb-adv-heading-af45342e-90c6-4d7c-810c-c0c22eb17b79 .uagb-separator-wrap{text-align: left;}#uagb-adv-heading-af45342e-90c6-4d7c-810c-c0c22eb17b79 .uagb-desc-text{text-align: left;font-size: 0;}#uagb-adv-heading-af45342e-90c6-4d7c-810c-c0c22eb17b79 .uagb-separator{border-top-style: solid;border-top-width: 0;margin-bottom: 15px;}</style>
+					<link rel="icon" href="http://localhost/webPro_v1/wp-content/uploads/2019/09/cropped-mylogo-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://localhost/webPro_v1/wp-content/uploads/2019/09/cropped-mylogo-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://localhost/webPro_v1/wp-content/uploads/2019/09/cropped-mylogo-1-180x180.png" />
+<meta name="msapplication-TileImage" content="http://localhost/webPro_v1/wp-content/uploads/2019/09/cropped-mylogo-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/* You can add your own CSS here. Click the help icon above to learn more. */
+		</style>
+		</head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="error404 wp-custom-logo theme-astra woocommerce-no-js ehf-template-astra ehf-stylesheet-astra-child ast-desktop ast-separate-container ast-two-container ast-no-sidebar astra-1.8.0 ast-header-custom-item-inside ast-inherit-site-logo-transparent elementor-default">
+
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+	
+		<header itemtype="https://schema.org/WPHeader" itemscope="itemscope" id="masthead" class="site-header header-main-layout-1 ast-primary-menu-enabled ast-menu-toggle-icon ast-mobile-header-stack" role="banner">
+
+			
+			
+<div class="main-header-bar-wrap">
+	<div class="main-header-bar">
+				<div class="ast-container">
+
+			<div class="ast-flex main-header-container">
+				
+		<div class="site-branding">
+			<div class="ast-site-identity" itemscope="itemscope" itemtype="https://schema.org/Organization">
+				<span class="site-logo-img"><a href="http://localhost/webPro_v1/" class="custom-logo-link" rel="home"><img width="125" height="35" src="http://localhost/webPro_v1/wp-content/uploads/2019/09/space-logo-free-img.png" class="custom-logo" alt="WebPRO" srcset="http://localhost/webPro_v1/wp-content/uploads/2019/09/space-logo-free-img.png 1x, http://localhost/webPro_v1/wp-content/uploads/2019/09/space-logo-free-img@2x.png 2x" /></a></span>			</div>
+		</div>
+
+		<!-- .site-branding -->
+				<div class="ast-mobile-menu-buttons">
+
+			
+					<div class="ast-button-wrap">
+			<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-fill "  aria-controls='primary-menu' aria-expanded='false'>
+				<span class="screen-reader-text">Main Menu</span>
+				<span class="menu-toggle-icon"></span>
+							</button>
+		</div>
+			
+			
+		</div>
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" id="site-navigation" class="ast-flex-grow-1 navigation-accessibility" role="navigation" aria-label="Site Navigation"><div class="main-navigation"><ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border"><li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-727"><a href="http://localhost/webPro_v1/">Home</a></li>
+<li id="menu-item-726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-726"><a href="http://localhost/webPro_v1/about/">About</a></li>
+<li id="menu-item-725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-725"><a href="http://localhost/webPro_v1/services-2/">Services</a></li>
+<li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="http://localhost/webPro_v1/blog/">Blog</a></li>
+<li id="menu-item-724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-724"><a href="http://localhost/webPro_v1/contact/">Contact</a></li>
+			<li class="ast-masthead-custom-menu-items button-custom-menu-item">
+				<a class="ast-custom-button-link" href="#"><button class=ast-button>Request Quote</button></a><a class="menu-link" href="#">Request Quote</a>			</li>
+			</ul></div></nav></div></div>			</div><!-- Main Header Container -->
+		</div><!-- ast-row -->
+			</div> <!-- Main Header Bar -->
+</div> <!-- Main Header Bar Wrap -->
+
+			
+		</header><!-- #masthead -->
+
+		
+	
+	
+	<div id="content" class="site-content">
+
+		<div class="ast-container">
+
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+		
+
+<section class="error-404 not-found">
+
+	
+	<div class="ast-404-layout-1">
+
+	<header class="page-header"><h1 class="page-title">This page doesn&#039;t seem to exist.</h1></header><!-- .page-header -->
+	<div class="page-content">
+
+		<div class="page-sub-title">
+			It looks like the link pointing here was faulty. Maybe try searching?		</div>
+
+		<div class="ast-404-search">
+			<div class="widget widget_search"><form role="search" method="get" class="search-form" action="http://localhost/webPro_v1/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div>		</div>
+
+	</div><!-- .page-content -->
+</div>
+
+	
+</section><!-- .error-404 -->
+
+		
+
+		
+	</div><!-- #primary -->
+
+
+			
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+		
+		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" class="site-footer" role="contentinfo">
+
+			
+			
+<div class="footer-adv footer-adv-layout-4">
+	<div class="footer-adv-overlay">
+		<div class="ast-container">
+			<div class="ast-row">
+				<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-1" >
+					<div id="media_image-1" class="widget widget_media_image"><img width="125" height="35" src="http://localhost/webPro_v1/wp-content/uploads/2017/09/spacewhite-logo-free-img.png" class="image wp-image-820  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="text-2" class="widget widget_text">			<div class="textwidget"><p>Lorem ipsum dolor sit amet, mattis consectetuer adipiscing suspendisse et justo. Praesent mattis ugue.</p>
+</div>
+		</div><div id="astra-widget-social-profiles-1" class="widget astra-widget-social-profiles">
+			<div class="astra-widget-social-profiles-inner clearfix inline circle icon-custom-color">
+									<ul>
+													<li>
+								<a target="_self" href="#" target="_self" rel="noopener nofollow" aria-label="facebook-f">
+										<span class="ast-widget-icon facebook-f">
+																							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 512" width=15 height=15 ><path d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path></svg>
+																					</span>
+																	</a>
+							</li>
+													<li>
+								<a target="_self" href="#" target="_self" rel="noopener nofollow" aria-label="twitter">
+										<span class="ast-widget-icon twitter">
+																							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width=15 height=15 ><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+																					</span>
+																	</a>
+							</li>
+													<li>
+								<a target="_self" href="#" target="_self" rel="noopener nofollow" aria-label="google-plus-g">
+										<span class="ast-widget-icon google-plus-g">
+																							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" width=15 height=15 ><path d="M386.061 228.496c1.834 9.692 3.143 19.384 3.143 31.956C389.204 370.205 315.599 448 204.8 448c-106.084 0-192-85.915-192-192s85.916-192 192-192c51.864 0 95.083 18.859 128.611 50.292l-52.126 50.03c-14.145-13.621-39.028-29.599-76.485-29.599-65.484 0-118.92 54.221-118.92 121.277 0 67.056 53.436 121.277 118.92 121.277 75.961 0 104.513-54.745 108.965-82.773H204.8v-66.009h181.261zm185.406 6.437V179.2h-56.001v55.733h-55.733v56.001h55.733v55.733h56.001v-55.733H627.2v-56.001h-55.733z"></path></svg>
+																					</span>
+																	</a>
+							</li>
+													<li>
+								<a target="_self" href="#" target="_self" rel="noopener nofollow" aria-label="instagram">
+										<span class="ast-widget-icon instagram">
+																							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width=15 height=15 ><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>
+																					</span>
+																	</a>
+							</li>
+													<li>
+								<a target="_self" href="#" target="_self" rel="noopener nofollow" aria-label="linkedin-in">
+										<span class="ast-widget-icon linkedin-in">
+																							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448.1 512" width=15 height=15 ><path d="M100.3 448H7.4V148.9h92.9V448zM53.8 108.1C24.1 108.1 0 83.5 0 53.8S24.1 0 53.8 0s53.8 24.1 53.8 53.8-24.1 54.3-53.8 54.3zM448 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448h-.1z"></path></svg>
+																					</span>
+																	</a>
+							</li>
+											</ul>
+							</div>
+
+			</div>				</div>
+				<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-2" >
+					<div id="text-3" class="widget widget_text"><h2 class="widget-title">Important Links</h2>			<div class="textwidget"></div>
+		</div><div id="astra-widget-list-icons-1" class="widget astra-widget-list-icons">
+			<div id="astra-widget-list-icons-wrapper" class="astra-widget-list-icons clearfix">
+									<ul class="list-items-wrapper">
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="angle-right">
+																			<div class="icon">
+											<span class="angle-right">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 256 512"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">Home</span>
+
+									</a>
+								</div>
+							</li>
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="angle-right">
+																			<div class="icon">
+											<span class="angle-right">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 256 512"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">About US</span>
+
+									</a>
+								</div>
+							</li>
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="angle-right">
+																			<div class="icon">
+											<span class="angle-right">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 256 512"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">Services</span>
+
+									</a>
+								</div>
+							</li>
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="angle-right">
+																			<div class="icon">
+											<span class="angle-right">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 256 512"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">Contact</span>
+
+									</a>
+								</div>
+							</li>
+											</ul>
+							</div>
+			</div>				</div>
+				<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-3" >
+					<div id="text-4" class="widget widget_text"><h2 class="widget-title">Useful Links</h2>			<div class="textwidget"></div>
+		</div><div id="astra-widget-list-icons-2" class="widget astra-widget-list-icons">
+			<div id="astra-widget-list-icons-wrapper" class="astra-widget-list-icons clearfix">
+									<ul class="list-items-wrapper">
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="angle-right">
+																			<div class="icon">
+											<span class="angle-right">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 256 512"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">Projects</span>
+
+									</a>
+								</div>
+							</li>
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="angle-right">
+																			<div class="icon">
+											<span class="angle-right">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 256 512"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">Our Team</span>
+
+									</a>
+								</div>
+							</li>
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="angle-right">
+																			<div class="icon">
+											<span class="angle-right">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 256 512"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">Facts</span>
+
+									</a>
+								</div>
+							</li>
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="angle-right">
+																			<div class="icon">
+											<span class="angle-right">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 256 512"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">Customers</span>
+
+									</a>
+								</div>
+							</li>
+											</ul>
+							</div>
+			</div>				</div>
+				<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-4" >
+					<div id="text-5" class="widget widget_text"><h2 class="widget-title">Get In Touch</h2>			<div class="textwidget"></div>
+		</div><div id="astra-widget-list-icons-3" class="widget astra-widget-list-icons">
+			<div id="astra-widget-list-icons-wrapper" class="astra-widget-list-icons clearfix">
+									<ul class="list-items-wrapper">
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="map-marker-alt">
+																			<div class="icon">
+											<span class="map-marker-alt">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 384 512"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">4578 Marmora Road, Glasgow 89GR</span>
+
+									</a>
+								</div>
+							</li>
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="envelope">
+																			<div class="icon">
+											<span class="envelope">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 512 512"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">info@demolink.org</span>
+
+									</a>
+								</div>
+							</li>
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="phone-volume">
+																			<div class="icon">
+											<span class="phone-volume">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 384 512"><path d="M97.333 506.966c-129.874-129.874-129.681-340.252 0-469.933 5.698-5.698 14.527-6.632 21.263-2.422l64.817 40.513a17.187 17.187 0 0 1 6.849 20.958l-32.408 81.021a17.188 17.188 0 0 1-17.669 10.719l-55.81-5.58c-21.051 58.261-20.612 122.471 0 179.515l55.811-5.581a17.188 17.188 0 0 1 17.669 10.719l32.408 81.022a17.188 17.188 0 0 1-6.849 20.958l-64.817 40.513a17.19 17.19 0 0 1-21.264-2.422zM247.126 95.473c11.832 20.047 11.832 45.008 0 65.055-3.95 6.693-13.108 7.959-18.718 2.581l-5.975-5.726c-3.911-3.748-4.793-9.622-2.261-14.41a32.063 32.063 0 0 0 0-29.945c-2.533-4.788-1.65-10.662 2.261-14.41l5.975-5.726c5.61-5.378 14.768-4.112 18.718 2.581zm91.787-91.187c60.14 71.604 60.092 175.882 0 247.428-4.474 5.327-12.53 5.746-17.552.933l-5.798-5.557c-4.56-4.371-4.977-11.529-.93-16.379 49.687-59.538 49.646-145.933 0-205.422-4.047-4.85-3.631-12.008.93-16.379l5.798-5.557c5.022-4.813 13.078-4.394 17.552.933zm-45.972 44.941c36.05 46.322 36.108 111.149 0 157.546-4.39 5.641-12.697 6.251-17.856 1.304l-5.818-5.579c-4.4-4.219-4.998-11.095-1.285-15.931 26.536-34.564 26.534-82.572 0-117.134-3.713-4.836-3.115-11.711 1.285-15.931l5.818-5.579c5.159-4.947 13.466-4.337 17.856 1.304z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">1-800-1234-567</span>
+
+									</a>
+								</div>
+							</li>
+													<li>
+								<div class="link">
+									<a href="#" class="list-item-link" target="_self" rel="noopener nofollow" aria-label="mobile">
+																			<div class="icon">
+											<span class="mobile">
+																									<svg xmlns="http://www.w3.org/2000/svg" class="list-icon" fill="#ffffff" width="18" height="18" viewBox="0 0 320 512"><path d="M272 0H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h224c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zM160 480c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z"></path></svg>
+																							</span>
+										</div>
+									
+									<span class="link-text">+44 987-654-3210</span>
+
+									</a>
+								</div>
+							</li>
+											</ul>
+							</div>
+			</div>				</div>
+			</div><!-- .ast-row -->
+		</div><!-- .ast-container -->
+	</div><!-- .footer-adv-overlay-->
+</div><!-- .ast-theme-footer .footer-adv-layout-4 -->
+
+<div class="ast-small-footer footer-sml-layout-1">
+	<div class="ast-footer-overlay">
+		<div class="ast-container">
+			<div class="ast-small-footer-wrap" >
+									<div class="ast-small-footer-section ast-small-footer-section-1" >
+						Copyright © 2019 <span class="ast-footer-site-title">WebPRO</span> | Powered by <span class="ast-footer-site-title">WebPRO</span>					</div>
+				
+				
+			</div><!-- .ast-row .ast-small-footer-wrap -->
+		</div><!-- .ast-container -->
+	</div><!-- .ast-footer-overlay -->
+</div><!-- .ast-small-footer-->
+
+			
+		</footer><!-- #colophon -->
+		
+		
+	</div><!-- #page -->
+
+	
+		<!-- ShiftNav Main Toggle -->
+		<div id="shiftnav-toggle-main" class="shiftnav-toggle-main-align-center shiftnav-toggle-style-burger_only shiftnav-togglebar-gap-auto shiftnav-togglebar-transparent shiftnav-toggle-edge-right shiftnav-toggle-icon-x shiftnav-toggle-main-align-center shiftnav-toggle-style-burger_only shiftnav-togglebar-gap-auto shiftnav-togglebar-transparent shiftnav-toggle-edge-right shiftnav-toggle-icon-x" data-shiftnav-target="shiftnav-main"><div id="shiftnav-toggle-main-button" class="shiftnav-toggle shiftnav-toggle-shiftnav-main shiftnav-toggle-burger" data-shiftnav-target="shiftnav-main"><i class="fa fa-bars"></i></div>	</div>	
+	<!-- /#shiftnav-toggle-main --> 
+
+
+	<!-- ShiftNav #shiftnav-main -->
+	<div class="shiftnav shiftnav-nojs shiftnav-shiftnav-main shiftnav-right-edge shiftnav-skin-standard-dark shiftnav-transition-standard" id="shiftnav-main" data-shiftnav-id="shiftnav-main">
+		<div class="shiftnav-inner">
+
+		
+				</div><!-- /.shiftnav-inner -->
+	</div><!-- /.shiftnav #shiftnav-main -->
+
+
+		<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A300%2C%22placeholderImgSrc%22%3A%22http%3A%5C%2F%5C%2Flocalhost%5C%2FwebPro_v1%5C%2Fwp-content%5C%2Fplugins%5C%2Fwoocommerce%5C%2Fassets%5C%2Fimages%5C%2Fplaceholder.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Afalse%2C%22limitTags%22%3Afalse%2C%22hasTags%22%3Afalse%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A35%2C%22name%22%3A%22Uncategorized%22%2C%22slug%22%3A%22uncategorized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A35%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22http%3A%5C%2F%5C%2Flocalhost%5C%2FwebPro_v1%5C%2Fproduct-category%5C%2Funcategorized%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22http%3A%5C%2F%5C%2Flocalhost%5C%2FwebPro_v1%5C%2F%22%7D' ) );
+		</script>
+		<link rel='stylesheet' id='astra-widgets-astra-widget-social-profiles-css'  href='http://localhost/webPro_v1/wp-content/plugins/astra-widgets/assets/css/minified/astra-widget-social-profiles.min.css?ver=5.2.3' type='text/css' media='all' />
+<style id='astra-widgets-astra-widget-social-profiles-inline-css' type='text/css'>
+#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner li .ast-widget-icon svg{fill:#ffffff;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner li .ast-widget-icon:hover svg{fill:#ffffff;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon, #astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.circle-outline li .ast-widget-icon{background:transparent;border-color:#4064d7;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon svg, #astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.circle-outline li .ast-widget-icon svg{background:transparent;fill:#ffffff;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.square .ast-widget-icon, #astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.circle .ast-widget-icon{background:#4064d7;border-color:#4064d7;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.square .ast-widget-icon svg, #astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.circle .ast-widget-icon svg{fill:#ffffff;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.square .ast-widget-icon:hover svg, #astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.circle .ast-widget-icon:hover svg{fill:#ffffff;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.square .ast-widget-icon:hover, #astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.circle .ast-widget-icon:hover{background:#627dd6;border-color:#627dd6;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon:hover, #astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.circle-outline li .ast-widget-icon:hover{background:transparent;border-color:#627dd6;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.square-outline li .ast-widget-icon:hover svg, #astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.circle-outline li .ast-widget-icon:hover svg{fill:#ffffff;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner li > a .ast-widget-icon{margin-right:px;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.stack li > a {padding-bottom:px;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.inline li > a {padding-right:px;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.inline li:last-child a {padding-right:0;}#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner li:last-child a{margin-right:0;padding-bottom:0;}
+</style>
+<link rel='stylesheet' id='astra-widgets-astra-widget-list-icons-css'  href='http://localhost/webPro_v1/wp-content/plugins/astra-widgets/assets/css/minified/astra-widget-list-icons.min.css?ver=5.2.3' type='text/css' media='all' />
+<style id='astra-widgets-astra-widget-list-icons-inline-css' type='text/css'>
+#astra-widget-list-icons-1 .astra-widget-list-icons .image img{min-width:18px;}#astra-widget-list-icons-1 .astra-widget-list-icons .icon svg{width:18px;}#astra-widget-list-icons-1 #astra-widget-list-icons-wrapper .list-items-wrapper li:first-child{padding-top:0;padding-bottom:13.5px;}#astra-widget-list-icons-1 #astra-widget-list-icons-wrapper .list-items-wrapper li{padding-top:13.5px;padding-bottom:13.5px;margin-bottom:0;}#astra-widget-list-icons-1 #astra-widget-list-icons-wrapper .list-items-wrapper li:last-child{padding-top:13.5px;padding-bottom:0;}#astra-widget-list-icons-1.astra-widget-list-icons ul li .link-text{margin-left:px;}#astra-widget-list-icons-1 .list-item-link .icon{width:18px;height:18px;}
+#astra-widget-list-icons-2 .astra-widget-list-icons .image img{min-width:18px;}#astra-widget-list-icons-2 .astra-widget-list-icons .icon svg{width:18px;}#astra-widget-list-icons-2 #astra-widget-list-icons-wrapper .list-items-wrapper li:first-child{padding-top:0;padding-bottom:13.5px;}#astra-widget-list-icons-2 #astra-widget-list-icons-wrapper .list-items-wrapper li{padding-top:13.5px;padding-bottom:13.5px;margin-bottom:0;}#astra-widget-list-icons-2 #astra-widget-list-icons-wrapper .list-items-wrapper li:last-child{padding-top:13.5px;padding-bottom:0;}#astra-widget-list-icons-2.astra-widget-list-icons ul li .link-text{margin-left:px;}#astra-widget-list-icons-2 .list-item-link .icon{width:18px;height:18px;}
+#astra-widget-list-icons-3 .astra-widget-list-icons .image img{min-width:18px;}#astra-widget-list-icons-3 .astra-widget-list-icons .icon svg{width:18px;}#astra-widget-list-icons-3 #astra-widget-list-icons-wrapper .list-items-wrapper li:first-child{padding-top:0;padding-bottom:13.5px;}#astra-widget-list-icons-3 #astra-widget-list-icons-wrapper .list-items-wrapper li{padding-top:13.5px;padding-bottom:13.5px;margin-bottom:0;}#astra-widget-list-icons-3 #astra-widget-list-icons-wrapper .list-items-wrapper li:last-child{padding-top:13.5px;padding-bottom:0;}#astra-widget-list-icons-3.astra-widget-list-icons ul li .link-text{margin-left:15px;}#astra-widget-list-icons-3 .list-item-link .icon{width:18px;height:18px;}
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var astra = {"break_point":"921","isRtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/themes/astra/assets/js/minified/style.min.js?ver=1.8.0'></script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/timeline.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/post-carousel.js?ver=1.12.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/localhost\/webPro_v1\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/webPro_v1\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/webPro_v1\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/localhost\/webPro_v1","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.7.0'></script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/webPro_v1\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/webPro_v1\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/webPro_v1\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/webPro_v1\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_00e03716c3d8fbb96e0ce22864027044","fragment_name":"wc_fragments_00e03716c3d8fbb96e0ce22864027044","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var shiftnav_data = {"shift_body":"on","shift_body_wrapper":"","lock_body":"on","lock_body_x":"off","swipe_close":"off","swipe_open":"on","swipe_tolerance_x":"150","swipe_tolerance_y":"60","swipe_edge_proximity":"80","open_current":"off","collapse_accordions":"off","scroll_panel":"on","breakpoint":"938","touch_off_close":"on","scroll_offset":"100","disable_transforms":"off"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-content/plugins/shiftnavpro15/assets/js/shiftnav.min.js?ver=1.5'></script>
+<script type='text/javascript' src='http://localhost/webPro_v1/wp-includes/js/wp-embed.min.js?ver=5.2.3'></script>
+			<script type="text/javascript" id="uagb-script-frontend">
+				( function( $ ) {
+									})(jQuery)
+			</script>
+			
+	</body>
+</html>
